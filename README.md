@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Limardo</h1>
 <h3 align="center">Full Stack Developer and World Citizen</h3>
 
-- 🔭 I’m currently working on **a Final Project at Henry Bootcamp**
+- 🔭 I’m currently working on **a Final Project at soyHenry Bootcamp**
 
 - 🌱 I’m currently learning **Typescript**
 
