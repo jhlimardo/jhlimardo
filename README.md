@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jhlimardo](https://github.com/jhlimardo)
 
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequalize, Python**
+- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequalize, Python, MySQL**
 
 - 📫 How to reach me **jlimardo@gmail.com**
 
