@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jose Limardo</h1>
-<h3 align="center">Full Stack Developer and World Citizen</h3>
+<h3 align="center">Full Stack Developer and World Citizen.</h3>
 
-- 🔭 I’m currently working on **a Final Project at soyHenry Bootcamp**
+- 🔭 I’m currently working on **a Final Project at Henry Bootcamp**
 
 - 🌱 I’m currently learning **Typescript**
 
+- 👌 I’m finished my Individual Project [Pokemon App](https://github.com/jhlimardo/PI-Pokemon)
+
+- 👌 Other projects [Weather App](https://github.com/jhlimardo/API-Weather)
+
 - 👨‍💻 All of my projects are available at [https://github.com/jhlimardo](https://github.com/jhlimardo)
 
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequalize, Python, MySQL**
+- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequalize, Python**
 
 - 📫 How to reach me **jlimardo@gmail.com**
 
