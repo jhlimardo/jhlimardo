@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on **a Final Project at Henry Bootcamp**
 
 - 🌱 I’m currently learning **Typescript**
-- 
 - 👌 I’m finished my Team Project [MonsterPlace](https://monsterplace.vercel.app/)
 
 - 👌 I’m finished my Individual Project [Pokemon App](https://github.com/jhlimardo/PI-Pokemon)
