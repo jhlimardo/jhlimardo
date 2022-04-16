@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer and World Citizen.</h3>
 <i>Full-Stack Developer (JavaScript, Node Js, React Js, Redux) and experienced IT Consultor and Chief Technical Office with strong engineering professional skilled in Infrastructure, Datacenter, Cloud, Linux System Administration, Windows System Administrator, Domain Name System (DNS), and Management.</i>
 
-- 🔭 I’m currently working on **a Final Project at Henry Bootcamp**
+- 🔭 I’m already finished **a Final Project at Henry Bootcamp**
 
 - 🌱 I’m currently learning **Typescript**
 - 👌 I’m finished my Team Project [MonsterPlace](https://monsterplace.vercel.app/)
