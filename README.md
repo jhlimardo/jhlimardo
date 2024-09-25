@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jhlimardo](https://github.com/jhlimardo)
 
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node Js, Express, PostgreSQL, Sequalize, Python, FastApi, MongoDB, DynamoDB**
+- 💬 Ask me about **JavaScript, Typescript, Python, React, Redux, Angular, HTML, CSS, Node Js, Express, PostgreSQL, Sequalize, FastApi, MongoDB, DynamoDB**
 
 - 📫 How to reach me **jlimardo@gmail.com**
 
