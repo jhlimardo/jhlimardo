@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jose Limardo</h1>
 <h3 align="center">Full Stack Developer and World Citizen.</h3>
-<i>Full-Stack Developer (JavaScript, Node Js, React Js, Redux) and experienced IT Consultor and Chief Technical Office with strong engineering professional skilled in Infrastructure, Datacenter, Cloud, Linux System Administration, Windows System Administrator, Domain Name System (DNS), and Management.</i>
+<i>Full-Stack Developer (JavaScript, TypeScript, Python, Node Js, React Js, Redux, Angular) and experienced IT Consultor and Chief Technical Office with strong engineering professional skilled in Infrastructure, Datacenter, Cloud, Linux System Administration, Windows System Administrator, Domain Name System (DNS), and Management.</i>
 
 - 🔭 I’m already finished **a Final Project at Henry Bootcamp**
 
